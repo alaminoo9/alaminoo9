@@ -8,11 +8,11 @@ In addition, I have expertise in WordPress virus eradication and frontend develo
 
 Skills: PHP/ JS / HTML / CSS / ELEMENTOR / WORDPRESS / WOOCOMMERCE
 
- ✅ I’m currently working on Fiverr and Upwork 
- ✅ I’m currently learning JavaScript 
- ✅ I’m looking to collaborate on GitHub 
- ✅ I’m looking for help with Freelancing Marketplace 
- ✅Ask me about Web Development and WordPress  
+- ✅ I’m currently working on Fiverr and Upwork 
+- ✅ I’m currently learning JavaScript 
+- ✅ I’m looking to collaborate on GitHub 
+- ✅ I’m looking for help with Freelancing Marketplace 
+- ✅Ask me about Web Development and WordPress  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/alaminoo9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61559543593830)  
