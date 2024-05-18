@@ -16,9 +16,9 @@ Skills: PHP/ JS / HTML / CSS / ELEMENTOR / WORDPRESS / WOOCOMMERCE
 
 🟣🟣Web and WordPress/ Frontend and Backend Expertise
 
-✔️WordPress theme development and customization
-✔️Website plugin development and customization
-✔️Personal/ business/portfolio website
+*✔️WordPress theme development and customization
+*✔️Website plugin development and customization
+*✔️Personal/ business/portfolio website
 ✔️School/College/University(Education Website)
 ✔️Online Store / eCommerce Website
 ✔️Sales Funnel/Landing Page
