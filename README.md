@@ -6,7 +6,7 @@ I am Engr. Al Amin based on Bangladesh, certified and enthusiastic Web Developer
 In addition, I have expertise in WordPress virus eradication and frontend development. I am capable of creating any type of custom website and resolving WordPress and hosting issues. I aim to build a solid and passionate online freelance career in the world's largest freelancing marketplace. 
 
 
-Skills: - PHP/ - JS / - HTML / - CSS / - ELEMENTOR / - WORDPRESS / - WOOCOMMERCE
+Skills: PHP/ JS / HTML / CSS / ELEMENTOR / WORDPRESS / WOOCOMMERCE
 
 - ✅ I’m currently working on Fiverr and Upwork 
 - ✅ I’m currently learning JavaScript 
@@ -14,7 +14,7 @@ Skills: - PHP/ - JS / - HTML / - CSS / - ELEMENTOR / - WORDPRESS / - WOOCOMMERCE
 - ✅ I’m looking for help with Freelancing Marketplace 
 - ✅Ask me about Web Development and WordPress  
 
- _Web and WordPress/ Frontend and Backend Expertise_
+_Web and WordPress/ Frontend and Backend Expertise:_
 
 - ✔️WordPress theme development and customization
 - ✔️Website plugin development and customization
