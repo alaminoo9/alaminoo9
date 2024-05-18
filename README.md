@@ -14,7 +14,7 @@ Skills: PHP/ JS / HTML / CSS / ELEMENTOR / WORDPRESS / WOOCOMMERCE
 - ✅ I’m looking for help with Freelancing Marketplace 
 - ✅Ask me about Web Development and WordPress  
 
-🟣🟣Web and WordPress/ Frontend and Backend Expertise
+🟣*Web and WordPress/ Frontend and Backend Expertise*
 
 - ✔️WordPress theme development and customization
 - ✔️Website plugin development and customization
@@ -31,28 +31,28 @@ Skills: PHP/ JS / HTML / CSS / ELEMENTOR / WORDPRESS / WOOCOMMERCE
 - ✔️Crypto/ NFT Website
 - ✔️Doctors/ Appointment Website
 
-Here is a bundle of services what I can serve to you?
+_Here is a bundle of services what I can serve to you?_
 ----------------------------------------------------------------------
-🎯Professional Modern website Design
-🎯WordPress Website development
-🎯WordPress Website theme custiomization
-🎯Website Malware removal
-🎯Website Migration
-🎯Fully Mobile/tab/Desktop Responsive WordPress Design
-🎯Add products with inventory for WordPress store
-🎯Reconstruction Wordpress Websites
-🎯Woocommerce website designing
-🎯Ecommerce functionality
-🎯Clone/Redesign or Duplicate any website
-🎯Web Hosting and domain purchasing
-🎯Sales or Click Funnels Landing Page Design
-🎯Web Speed Optimization 50+
-🎯Coming soon or Under Maintenance page
-🎯Multi-step Gravity Form Designing
-🎯Email marketing & Mailchimp Expert
-🎯Winning Dropshipping Product research & Upload
-🎯Shopify Website Development
-🎯Membership System
+- 🎯Professional Modern website Design
+- 🎯WordPress Website development
+- 🎯WordPress Website theme custiomization
+- 🎯Website Malware removal
+- 🎯Website Migration
+- 🎯Fully Mobile/tab/Desktop Responsive WordPress Design
+- 🎯Add products with inventory for WordPress store
+- 🎯Reconstruction Wordpress Websites
+- 🎯Woocommerce website designing
+- 🎯Ecommerce functionality
+- 🎯Clone/Redesign or Duplicate any website
+- 🎯Web Hosting and domain purchasing
+- 🎯Sales or Click Funnels Landing Page Design
+- 🎯Web Speed Optimization 50+
+- 🎯Coming soon or Under Maintenance page
+- 🎯Multi-step Gravity Form Designing
+- 🎯Email marketing & Mailchimp Expert
+- 🎯Winning Dropshipping Product research & Upload
+- 🎯Shopify Website Development
+- 🎯Membership System
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/alaminoo9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61559543593830)  
 
