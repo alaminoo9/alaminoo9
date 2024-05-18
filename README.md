@@ -16,20 +16,20 @@ Skills: PHP/ JS / HTML / CSS / ELEMENTOR / WORDPRESS / WOOCOMMERCE
 
 🟣🟣Web and WordPress/ Frontend and Backend Expertise
 
-*✔️WordPress theme development and customization
-*✔️Website plugin development and customization
-*✔️Personal/ business/portfolio website
-✔️School/College/University(Education Website)
-✔️Online Store / eCommerce Website
-✔️Sales Funnel/Landing Page
-✔️Yoast SEO
-✔️Agency/ Business Website
-✔️Dropshipping Website
-✔️News/Blog/ Magazine Website
-✔️ Real Estate/Realtors
-✔️Art Gallery / Photographer Website
-✔️Crypto/ NFT Website
-✔️Doctors/ Appointment Website
+- ✔️WordPress theme development and customization
+- ✔️Website plugin development and customization
+- ✔️Personal/ business/portfolio website
+- ✔️School/College/University(Education Website)
+- ✔️Online Store / eCommerce Website
+- ✔️Sales Funnel/Landing Page
+- ✔️Yoast SEO
+- ✔️Agency/ Business Website
+- ✔️Dropshipping Website
+- ✔️News/Blog/ Magazine Website
+- ✔️ Real Estate/Realtors
+- ✔️Art Gallery / Photographer Website
+- ✔️Crypto/ NFT Website
+- ✔️Doctors/ Appointment Website
 
 Here is a bundle of services what I can serve to you?
 ----------------------------------------------------------------------
