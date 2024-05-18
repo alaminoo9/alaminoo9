@@ -1,9 +1,6 @@
-
-![Web Developer | WordPress Developer](https://scontent-sin6-1.xx.fbcdn.net/v/t39.30808-6/441407994_122106266258318119_6971416833882195225_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uAgxMfaa9kIQ7kNvgGOaZ7_&_nc_ht=scontent-sin6-1.xx&cb_e2o_trans=q&oh=00_AYBLf1qqwR8iPgNiHCpUuKJtJly_G86GHFSpsBmp74WC7A&oe=664E7CDD)
-
-### Hi there, I am Al Amin
+### Hi there 👋, I am Al Amin
 #### Web Developer | WordPress Developer
-
+![Web Developer | WordPress Developer](https://scontent-sin6-1.xx.fbcdn.net/v/t39.30808-6/441407994_122106266258318119_6971416833882195225_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uAgxMfaa9kIQ7kNvgGOaZ7_&_nc_ht=scontent-sin6-1.xx&cb_e2o_trans=q&oh=00_AYBLf1qqwR8iPgNiHCpUuKJtJly_G86GHFSpsBmp74WC7A&oe=664E7CDD)
 
 I am Engr. Al Amin based on Bangladesh, certified and enthusiastic Web Developer and WordPress Developer. With years of experience in the web development industry, I specialize in creating custom themes and plugins, optimizing website performance, and providing comprehensive solutions tailored to meet your unique business needs. Since 2019, I have worked as a full-time professional web developer with expertise in Woocommerce and WordPress. During that period, I have finished more than 50 error-free online projects for 35 clients in a variety of local and international marketplaces. 
 In addition, I have expertise in WordPress virus eradication and frontend development. I am capable of creating any type of custom website and resolving WordPress and hosting issues. I aim to build a solid and passionate online freelance career in the world's largest freelancing marketplace. 
@@ -11,11 +8,11 @@ In addition, I have expertise in WordPress virus eradication and frontend develo
 
 Skills: PHP/ JS / HTML / CSS / ELEMENTOR / WORDPRESS / WOOCOMMERCE
 
--✅ I’m currently working on Fiverr and Upwork 
--✅ I’m currently learning JavaScript 
--✅ I’m looking to collaborate on GitHub 
--✅ I’m looking for help with Freelancing Marketplace 
--✅ Ask me about Web Development and WordPress  
+- ✅ I’m currently working on Fiverr and Upwork 
+- ✅ I’m currently learning JavaScript 
+- ✅ I’m looking to collaborate on GitHub 
+- ✅ I’m looking for help with Freelancing Marketplace 
+- ✅Ask me about Web Development and WordPress  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/alaminoo9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61559543593830)  
