@@ -35,17 +35,18 @@ Skills: PHP/ JS / HTML / CSS / ELEMENTOR / WORDPRESS / WOOCOMMERCE
 </div>
 <br> <br> 
 
+#####
 
   ✅ I’m currently working on Fiverr and Upwork Marketplace<br> 
   ✅ I’m currently learning JavaScript<br> 
   ✅ I’m looking to collaborate on GitHub<br> 
   ✅ I’m looking for help with Freelancing Marketplace<br> 
   ✅ Ask me about Web Development and WordPress<br>  
-  --
+  
 
 _Web and WordPress/ Frontend and Backend Expertise:_
 ---------------------------------------------------------------------
-
+#####
   👉🏿 WordPress theme development and customization<br> 
   👉🏿 Website plugin development and customization<br> 
   👉🏿 Personal/ business/portfolio website<br> 
