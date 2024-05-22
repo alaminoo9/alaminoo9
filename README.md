@@ -56,10 +56,9 @@ _Web and WordPress/ Frontend and Backend Expertise:_
 _Here is a bundle of services what I can serve to you?_
 ----------------------------------------------------------------------
 
-  🎯Professional Modern website Design
-  🎯WordPress Website development
-  🎯WordPress Website theme custiomization
-  🎯Website Malware removal
+  🎯 WordPress Website development
+  🎯 WordPress Website theme custiomization
+  🎯  Website Malware removal
 - 🎯Website Migration
 - 🎯Fully Mobile/tab/Desktop Responsive WordPress Design
 - 🎯Add products with inventory for WordPress store
