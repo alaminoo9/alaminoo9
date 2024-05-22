@@ -39,51 +39,50 @@ Skills: PHP/ JS / HTML / CSS / ELEMENTOR / WORDPRESS / WOOCOMMERCE
 
   ✅ **I’m currently working on Fiverr and Upwork Marketplace**<br> 
   ✅ **I’m currently learning JavaScript**<br> 
-  ✅ I’m looking to collaborate on GitHub<br> 
-  ✅ I’m looking for help with Freelancing Marketplace<br> 
-  ✅ Ask me about Web Development and WordPress<br>
+  ✅ **I’m looking to collaborate on GitHub**<br> 
+  ✅ **I’m looking for help with Freelancing Marketplace**<br> 
+  ✅ **Ask me about Web Development and WordPress**<br>
 
 
 ### :hammer_and_wrench: Web and WordPress/ Frontend and Backend Expertise:_
 ---------------------------------------------------------------------
 #####
-  👉🏿 WordPress theme development and customization<br> 
-  👉🏿 Website plugin development and customization<br> 
-  👉🏿 Personal/ business/portfolio website<br> 
-  👉🏿 School/College/University(Education Website)<br> 
-  👉🏿 Online Store / eCommerce Website<br> 
-  👉🏿 Sales Funnel/Landing Page<br> 
-  👉🏿 Yoast SEO<br> 
-  👉🏿 Agency/ Business Website<br> 
-  👉🏿 Dropshipping Website<br>
-  👉🏿 News/Blog/ Magazine Website<br> 
-  👉🏿 Real Estate/Realtors<br> 
-  👉🏿 Art Gallery / Photographer Website<br> 
-  👉🏿 Crypto/ NFT Website<br> 
-  👉🏿 Doctors/ Appointment Website<br> 
+  👉🏿 **WordPress theme development and customization**<br> 
+  👉🏿 **Website plugin development and customization**<br> 
+  👉🏿 **Personal/ business/portfolio website**<br> 
+  👉🏿 **School / College / University / Education Website**<br> 
+  👉🏿 **Online Store / eCommerce Website**<br> 
+  👉🏿 **Sales Funnel/Landing Page**<br> 
+  👉🏿 **Yoast SEO**<br> 
+  👉🏿 **Agency/ Business Website**<br> 
+  👉🏿 **Dropshipping Website**<br>
+  👉🏿 **News/Blog/ Magazine Website**<br> 
+  👉🏿 **Real Estate/Realtors**<br> 
+  👉🏿 **Art Gallery / Photographer Website**<br> 
+  👉🏿 **Crypto/ NFT Website**<br> 
+  👉🏿 **Doctors/ Appointment Website**<br> 
   
 ### :hammer_and_wrench: Here is a bundle of services what I can serve to you?_
 ----------------------------------------------------------------------
 
-  🎯 WordPress Website development <br>
-  🎯 WordPress Website theme custiomization<br>
-  🎯 Website Malware removal<br>
-  🎯 Website Migration<br> 
-  🎯 Fully Mobile/tab/Desktop Responsive WordPress Design<br> 
-  🎯 Add products with inventory for WordPress store<br> 
-  🎯 Reconstruction Wordpress Websites<br> 
-  🎯 Woocommerce website designing<br> 
-  🎯 Ecommerce functionality<br> 
-  🎯 Clone/Redesign or Duplicate any website<br> 
-  🎯 Web Hosting and domain purchasing<br> 
-  🎯 Sales or Click Funnels Landing Page Design<br> 
-  🎯 Web Speed Optimization 50+<br> 
-  🎯 Coming soon or Under Maintenance page<br> 
-  🎯 Multi-step Gravity Form Designing<br> 
-  🎯 Email marketing & Mailchimp Expert<br> 
-  🎯 Winning Dropshipping Product research & Upload<br> 
-  🎯 Shopify Website Development<br> 
-  🎯 Membership System<br> 
+  🎯 **WordPress Website development** <br>
+  🎯 **WordPress Website theme custiomization**<br>
+  🎯 Website Malware removal**<br>
+  🎯 **Website Migration**<br> 
+  🎯 **Fully Mobile/tab/Desktop Responsive WordPress Design**<br> 
+  🎯 **Add products with inventory for WordPress store**<br> 
+  🎯 **Reconstruction Wordpress Websites**<br> 
+  🎯 **Woocommerce website designing**<br> 
+  🎯 **Ecommerce functionality**<br> 
+  🎯 **Clone/Redesign or Duplicate any website**<br> 
+  🎯 **Web Hosting and domain purchasing**<br> 
+  🎯 **Sales or Click Funnels Landing Page Design**<br> 
+  🎯 **Web Speed Optimization 50+**<br> 
+  🎯 **Coming soon or Under Maintenance page**<br> 
+  🎯 **Multi-step Gravity Form Designing**<br> 
+  🎯 **Email marketing & Mailchimp Expert**<br> 
+  🎯 **Winning Dropshipping Product research & Upload**<br> 
+  🎯 **Membership System**<br> 
 
 
 
