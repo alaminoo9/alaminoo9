@@ -78,7 +78,7 @@ _Here is a bundle of services what I can serve to you?_
 
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/alaminoo9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61559543593830)  
