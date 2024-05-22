@@ -1,4 +1,4 @@
-### Hi there, I am Al Amin
+### Hi there, I am <span style="color: green">Al Amin  </span>
 #### Web Developer | WordPress Developer
 ![Web Developer | WordPress Developer](https://scontent-sin6-1.xx.fbcdn.net/v/t39.30808-6/441407994_122106266258318119_6971416833882195225_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uAgxMfaa9kIQ7kNvgGOaZ7_&_nc_ht=scontent-sin6-1.xx&cb_e2o_trans=q&oh=00_AYBLf1qqwR8iPgNiHCpUuKJtJly_G86GHFSpsBmp74WC7A&oe=664E7CDD)<br>
 
@@ -54,7 +54,7 @@ _Web and WordPress/ Frontend and Backend Expertise:_
   👉🏿 Sales Funnel/Landing Page<br> 
   👉🏿 Yoast SEO<br> 
   👉🏿 Agency/ Business Website<br> 
-  👉🏿 Dropshipping Website
+  👉🏿 Dropshipping Website<br>
   👉🏿 News/Blog/ Magazine Website<br> 
   👉🏿 Real Estate/Realtors<br> 
   👉🏿 Art Gallery / Photographer Website<br> 
