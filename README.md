@@ -57,8 +57,8 @@ _Here is a bundle of services what I can serve to you?_
 ----------------------------------------------------------------------
 
 🎯Professional Modern website Design
--🎯WordPress Website development
--🎯WordPress Website theme custiomization
+*  🎯WordPress Website development
+*  🎯WordPress Website theme custiomization
 - 🎯Website Malware removal
 - 🎯Website Migration
 - 🎯Fully Mobile/tab/Desktop Responsive WordPress Design
