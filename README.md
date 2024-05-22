@@ -55,7 +55,8 @@ _Web and WordPress/ Frontend and Backend Expertise:_
 
 _Here is a bundle of services what I can serve to you?_
 ----------------------------------------------------------------------
-- 🎯Professional Modern website Design
+
+---🎯Professional Modern website Design
 - 🎯WordPress Website development
 - 🎯WordPress Website theme custiomization
 - 🎯Website Malware removal
@@ -77,11 +78,6 @@ _Here is a bundle of services what I can serve to you?_
 - 🎯Membership System
 ---
 
-### :fire: My Stats :
-
-https://github-readme-streak-stats.herokuapp.com/?user=alaminoo9
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaminoo9&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/alaminoo9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61559543593830)  
