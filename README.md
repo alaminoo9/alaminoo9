@@ -44,7 +44,7 @@ Skills: PHP/ JS / HTML / CSS / ELEMENTOR / WORDPRESS / WOOCOMMERCE
   ✅ Ask me about Web Development and WordPress<br>  
   
 
-_Web and WordPress/ Frontend and Backend Expertise:_
+### :hammer_and_wrench: Web and WordPress/ Frontend and Backend Expertise:_
 ---------------------------------------------------------------------
 #####
   👉🏿 WordPress theme development and customization<br> 
@@ -63,7 +63,7 @@ _Web and WordPress/ Frontend and Backend Expertise:_
   👉🏿 Doctors/ Appointment Website<br> 
   ---
 
-_Here is a bundle of services what I can serve to you?_
+### :hammer_and_wrench: Here is a bundle of services what I can serve to you?_
 ----------------------------------------------------------------------
 
   🎯 WordPress Website development <br>
